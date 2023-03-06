@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Check out my work'
+title: ''
 subtitle: ''
 
 content:
@@ -24,7 +24,7 @@ content:
 design:
   background:
     # Name of image in `assets/media/`.
-    image: ocean.jpg
+    image: about.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.

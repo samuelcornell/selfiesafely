@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Resources to stay safe when having fun at the coast.'
+    twitter: '@cornellsurf'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,10 +32,10 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
