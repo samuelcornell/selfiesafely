@@ -2,7 +2,8 @@
 widget: hero
 headless: true
 weight: 01
-title: Stay Selfie Safe when enjoying the coast!
+text_color_light: true
+title: 
 
 cta_note: 
 design:
