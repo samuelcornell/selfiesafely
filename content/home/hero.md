@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 01
-text_color_light: true
-title: 
+text_color_light: WHITE
+title: STAY SAFE AND HAVE FUN AT THE COAST
 
 cta_note: 
 design:

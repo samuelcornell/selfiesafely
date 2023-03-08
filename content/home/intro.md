@@ -24,3 +24,6 @@ author: admin
 For education and information on staying safe at the coast when taking selfies and having fun, please check out the articles and links below!
 
 For more information on my work please check out my [website](https://samuelcornell.com/)
+
+## Check out Sam talking about risky selfies on ABC radio Darwin!
+{{< audio src="safeselfies.mp3" >}}
